@@ -24,7 +24,7 @@ function Header() {
                     <nav class="navbar navbar-default">
                         <div class="navbar-header">
                             <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-                            <a class="navbar-brand" href="index.html">MyLife</a>
+                            <a class="navbar-brand" href="index.html">domus</a>
                         </div>
                         <div id="navbar" class="navbar-collapse collapse">
                             <ul class="nav navbar-nav navbar-right">

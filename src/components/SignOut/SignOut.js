@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Redirect } from 'react-router-dom';
 
-import MyLifeLogo from '../../assets/home/white-logo.png';
+import domusLogo from '../../assets/home/white-logo.png';
 
 class SignOut extends React.Component {
 
@@ -22,7 +22,7 @@ class SignOut extends React.Component {
     render() {
         if (this.state.loaded) return <Redirect to="/signin" />
 
-        return <div class="loading-container"><img class="loader" src={MyLifeLogo} /></div>
+        return <div class="loading-container"><img class="loader" src={domusLogo} /></div>
     }
 }
 

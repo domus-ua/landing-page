@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Redirect } from 'react-router-dom';
 
-import MyLifeLogo from '../../assets/home/white-logo.png';
+import domusLogo from '../../assets/home/white-logo.png';
 
 import baseURIs from '../../variables/baseURIs';
 
@@ -58,7 +58,7 @@ class Loading extends React.Component {
         }
 
         return (
-            <div class="loading-container"><img class="loader" src={MyLifeLogo} /></div>
+            <div class="loading-container"><img class="loader" src={domusLogo} /></div>
         );
     }
 }

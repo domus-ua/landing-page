@@ -8,7 +8,7 @@ function Footer() {
                 <div class="container">
                     <div class="">
                         <div class="col-md-12 text-center">
-                            <p><strong>MyLife 2020 &copy;</strong>  All Rights Reserved. <br /><a href="https://www.ua.pt/deti/">Universidade de Aveiro - DETI</a></p>
+                            <p><strong>domus 2020 &copy;</strong>  All Rights Reserved. <br /><a href="https://www.ua.pt/deti/">Universidade de Aveiro - DETI</a></p>
                         </div>
                     </div>
                     <div class="row">

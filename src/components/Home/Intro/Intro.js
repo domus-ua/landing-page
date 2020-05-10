@@ -13,7 +13,7 @@ function Intro() {
                             <div class="fh5co-text">
                                 <i class="fh5co-intro-icon fas fa-apple-alt"></i>
                                 <h2>Nutrition</h2>
-                                <p>With MyLife, a regular user can create and follow recommended nutritional plans according to specific health measures. Additionally, he can take pictures of food on a plate to be recognized by our machine learning engine.</p>
+                                <p>With domus, a regular user can create and follow recommended nutritional plans according to specific health measures. Additionally, he can take pictures of food on a plate to be recognized by our machine learning engine.</p>
                             </div>
                         </div>
                         <div class="fh5co-block to-animate" >

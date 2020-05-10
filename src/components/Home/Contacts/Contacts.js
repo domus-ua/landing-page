@@ -23,7 +23,7 @@ function Contacts() {
                                     <i class="icon-home"></i>
                                     IEETA - Instituto de Engenharia Electrónica e Telemática de Aveiro <br />Universidade de Aveiro - Aveiro, Portugal
 						</li>
-                                <li><i class="icon-globe"></i> <a href="my-life-ua.gitlab.io" target="_blank">my-life-ua.gitlab.io</a></li>
+                                <li><i class="icon-globe"></i> <a href="tqs-domus.gitlab.io" target="_blank">tqs-domus.gitlab.io</a></li>
                             </ul>
                         </div>
                         <div class="col-md-6 to-animate">

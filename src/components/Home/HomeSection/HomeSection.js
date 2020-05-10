@@ -15,9 +15,9 @@ function HomeSection() {
                             <div class="row">
                                 <div class="col-md-8 col-md-offset-2">
                                     <img class="to-animate" style={{marginTop: "-200px", width: "250px", height:"250px"}} src={whiteLogo}/>
-                                    <h1 class="to-animate">Be the best version of yourself</h1>
-                                    <h2 class="to-animate">With our personal lifestyle monitoring system,</h2>
-                                    <h2 class="to-animate">your life will never be the same!</h2>
+                                    <h1 class="to-animate">House rental for students</h1>
+                                    <h2 class="to-animate">With our system for students,</h2>
+                                    <h2 class="to-animate">renting a house was never so easy!</h2>
                                 </div>
                             </div>
                         </div>
