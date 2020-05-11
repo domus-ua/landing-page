@@ -16,8 +16,7 @@ function HomeSection() {
                                 <div class="col-md-8 col-md-offset-2">
                                     <img class="to-animate" style={{marginTop: "-200px", width: "250px", height:"250px"}} src={whiteLogo}/>
                                     <h1 class="to-animate">House rental for students</h1>
-                                    <h2 class="to-animate">With our system for students,</h2>
-                                    <h2 class="to-animate">renting a house was never so easy!</h2>
+                                    <h2 class="to-animate">Renting a house was never so easy!</h2>
                                 </div>
                             </div>
                         </div>

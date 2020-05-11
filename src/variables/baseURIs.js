@@ -1,8 +1,8 @@
 export default {
     webApplication: {
-        baseURI: 'http://mednat.ieeta.pt:8441/',
-        signin: 'http://mednat.ieeta.pt:8441/signin',
-        signup: 'http://mednat.ieeta.pt:8441/signup'
+        baseURI: 'http://localhost:3000/',
+        signin: 'http://localhost:3000/signin',
+        signup: 'http://localhost:3000/signup'
     },
     
 }

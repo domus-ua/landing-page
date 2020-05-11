@@ -24,7 +24,6 @@ function Home() {
             <Services />
             <About />
             <Work />
-            <Counters />
             <Contacts />
             <Footer />
         </div>

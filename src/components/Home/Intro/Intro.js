@@ -11,27 +11,27 @@ function Intro() {
                             <div class="overlay-darker"></div>
                             <div class="overlay"></div>
                             <div class="fh5co-text">
-                                <i class="fh5co-intro-icon fas fa-apple-alt"></i>
-                                <h2>Nutrition</h2>
-                                <p>With domus, a regular user can create and follow recommended nutritional plans according to specific health measures. Additionally, he can take pictures of food on a plate to be recognized by our machine learning engine.</p>
+                                <i class="fh5co-intro-icon fas fa-search"></i>
+                                <h2>Find houses</h2>
+                                <p>With domus, you can find houses that are available for rental with low effort.</p>
                             </div>
                         </div>
                         <div class="fh5co-block to-animate" >
                             <div class="overlay-darker"></div>
                             <div class="overlay"></div>
                             <div class="fh5co-text">
-                                <i class="fh5co-intro-icon fas fa-dumbbell"></i>
-                                <h2>Crossfit plan</h2>
-                                <p>A regular user can also create and practise recommended crossfit training plans, and choose in which days of the week he wants to train. The exercises can be evaluated by our body movements recognition system.</p>
+                                <i class="fh5co-intro-icon fas fa-home"></i>
+                                <h2>Publish houses</h2>
+                                <p>If you want to rent your house, you can publish it in our system for potential customers.</p>
                             </div>
                         </div>
                         <div class="fh5co-block to-animate">
                             <div class="overlay-darker"></div>
                             <div class="overlay"></div>
                             <div class="fh5co-text">
-                                <i class="fh5co-intro-icon fas fa-heartbeat"></i>
-                                <h2>Vital signals monitoring</h2>
-                                <p>With the help of Fitbit Charge 3 band, our system is capable of gather and process real-time vital signals about regular users. This data is also used for the recommended nutritional and crossfit training plans</p>
+                                <i class="fh5co-intro-icon fas fa-balance-scale"></i>
+                                <h2>House comparison</h2>
+                                <p>In order to choose the best house that suits your needs, compare two or more houses!</p>
                             </div>
                         </div>
                     </div>
