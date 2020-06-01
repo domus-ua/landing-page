@@ -1,12 +1,10 @@
 import React from 'react';
 
 // import team pictures
-import team01 from '../../../assets/home/team/team01.png';
 import team02 from '../../../assets/home/team/team02.jpg';
 import team03 from '../../../assets/home/team/team03.jpg';
-import team04 from '../../../assets/home/team/team04.png';
+import team04 from '../../../assets/home/team/team04.jpg';
 import team05 from '../../../assets/home/team/team05.jpg';
-import team06 from '../../../assets/home/team/cc.png';
 
 function About() {
     return (
@@ -24,6 +22,7 @@ function About() {
                         </div>
                     </div>
                     <div class="row">
+                        <div class="col-md-2"></div>
                         <div class="col-md-4">
                             <div class="fh5co-person text-center to-animate">
                                 <figure><img src={team05} alt="Image" /></figure>
@@ -48,6 +47,8 @@ function About() {
                                 </ul>
                             </div>
                         </div>
+                        <div class="col-md-2"></div>
+                        <div class="col-md-2"></div>
                         <div class="col-md-4">
                             <div class="fh5co-person text-center to-animate">
                                 <figure><img src={team03} alt="Image" /></figure>
@@ -57,6 +58,18 @@ function About() {
                                     <li><a href="https://tiagocmendes.github.io/"><i class="icon-globe"></i></a></li>
                                     <li><a href="https://pt.linkedin.com/in/tiagocmendes"><i class="icon-linkedin"></i></a></li>
                                     <li><a href="https://github.com/tiagocmendes"><i class="icon-github"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="fh5co-person text-center to-animate">
+                                <figure><img src={team04} alt="Image" /></figure>
+                                <h3>Francisco Aires</h3>
+                                <span class="fh5co-position">Quality engineer</span>
+                                <ul class="social social-circle">
+                                    <li><a><i class="icon-globe"></i></a></li>
+                                    <li><a><i class="icon-linkedin"></i></a></li>
+                                    <li><a><i class="icon-github"></i></a></li>
                                 </ul>
                             </div>
                         </div>
