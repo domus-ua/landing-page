@@ -47,7 +47,8 @@ function About() {
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-2"></div>
+                    </div>
+                    <div class="row" style={{marginTop: "100px"}}>
                         <div class="col-md-2"></div>
                         <div class="col-md-4">
                             <div class="fh5co-person text-center to-animate">
@@ -65,7 +66,7 @@ function About() {
                             <div class="fh5co-person text-center to-animate">
                                 <figure><img src={team04} alt="Image" /></figure>
                                 <h3>Francisco Aires</h3>
-                                <span class="fh5co-position">Quality engineer</span>
+                                <span class="fh5co-position">Quality Engineer</span>
                                 <ul class="social social-circle">
                                     <li><a><i class="icon-globe"></i></a></li>
                                     <li><a><i class="icon-linkedin"></i></a></li>
